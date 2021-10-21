@@ -19,7 +19,7 @@
         "react"
     ],
     "rules": {
-        "import/no-unresolved": "off",
+      
         "react/prop-types": "off",
         "no-console": "off",
         "no-use-before-define": "off",
